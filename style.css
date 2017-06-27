@@ -1,0 +1,55 @@
+#calcBody{
+ 
+  margin: 5% auto;
+  width:400px;
+  border: black 5px
+  solid;
+  border-radius:5%;
+  background-color:#A88033;
+
+}
+
+.calcButton{
+  
+  width: 100%;
+  height: 40px;
+  margin: 7%;
+  font-family: 'Atomic Age', cursive;
+  font-size: 130%;
+  color:white;
+  background-color:black;
+}
+
+p {
+  
+  border: white 2px solid;
+  margin: 5% 5% 10% 5%;
+  font-size: 150%; 
+  border-radius: 10%;
+  color:white;
+  padding-right: 5px;
+  background-color:black;
+  overflow: auto;
+}
+
+body {
+  
+  font-family: 'Keania One', cursive;
+  background-color: #B1A691;
+  
+  
+}
+
+.lastRow {
+  
+  margin-bottom: 5%;
+  
+}
+
+.text-center {
+  
+  margin: 5% auto;
+  font-size: 200%;
+  font-family: 'Fascinate Inline', cursive;
+  
+}
